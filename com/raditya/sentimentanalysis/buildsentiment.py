@@ -1,4 +1,3 @@
 
 
-print "\n"
 print "sentiment"
